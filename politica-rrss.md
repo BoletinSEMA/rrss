@@ -24,7 +24,9 @@ Ya mirariamos como regular esto.
 ## 6: Responsables Instagram y Facebook
  De instagram y Facebook se encargarán siempre las mismas personas (por ejemplo, dos encargadas de instagram y dos siempre de Facebook). Eventualmente, podrán generar directamente contenidos y enviárselos al responsable de twitter de esta semana para su publicación en esta red social.
 
-## 7: Crear borradores de contenido propio
- Los tweets de contenido propio pueden ser escritos en cualquier momento y por cualquier persona (aunque quien lo escriba no sea el responsable de twitter, en ese momento) ya que pueden ser guardados como borradores. De esta manera, la persona responsable de esa semana contará siempre con varios borradores y tendrá contenido al cual recurrir en todo momento. Deberíamos asegurarnos de tener siempre una "base de datos" con borradores de noticias de ICIAM, del boletín de SeMA, etc. Tendremos que repartir la responsabilidad de creación de estos contenidos 
+## 7: Crear borradores de contenido propio en Twitter
+ - Los tweets de contenido propio pueden ser escritos en cualquier momento y por cualquier persona (aunque quien lo escriba no sea el responsable de twitter, en ese momento) ya que pueden ser guardados como borradores. 
+ - De esta manera, la persona responsable de esa semana contará siempre con varios borradores y tendrá contenido al cual recurrir en todo momento. 
+ - Deberíamos asegurarnos de tener siempre una "base de datos" con borradores de noticias de ICIAM, del boletín de SeMA, etc. Tendremos que repartir la responsabilidad de creación de estos contenidos 
 
 ## ...

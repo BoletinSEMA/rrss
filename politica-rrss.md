@@ -13,16 +13,16 @@ boletín/rrss/web para retroalimentarse. Buscar noticias. Utilizar delegados de 
 hay dos cosas: 3a Mirar histórico de articulos, prensa, etc. 3b Mirar videos (estan todas las presentaciones main speakers) 
 e ir compartiendolos con algún comentario.
  
-## 4: Noticias a compartir
+## 4: Noticias a compartir (periódicos)
  Aprovechar notícias en periodicos para ir compartiendolas. Seria hacer breve comentario y compartir enlace. En mi página 
 facebook hay mucho material. También esta en mi perfil facebook y en mi twitter peró ahí será mas dificil de encontrar. 
 Ya mirariamos como regular esto.
 
-## 5: Twitter: principal rrss
- La principal red social será Twitter. Las publicaciones en Facebook e Instagram se desencadenarán a partir de las de Twitter.
+## 5: Responsables Twitter
+ Cada semana debe haber un solo responsable de Twitter (que designará Gloria) cuya función será hacer retweets, menciones y twittear. Así como enviar contenidos a las demás RRSS.
 
-## 6: Asignar responsable cada semana
- Cada semana debe haber un solo responsable de Twitter cuya función sería hacer retweets, menciones y twittear.
+## 6: Responsables Instagram y Facebook
+ De instagram  y Facebook se encargarán siempre las mismas personas. Eventualmente, podrán generar directamente contenidos y enviárselos al responsable de twitter de esta semana para su publicación en esta red social.
 
 ## 7: Crear borradores de contenido propio
  Los tweets de contenido propio pueden ser escritos en cualquier momento (aunque la persona que lo escriba no sea el 

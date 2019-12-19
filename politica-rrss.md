@@ -28,3 +28,5 @@ Ya mirariamos como regular esto.
  Los tweets de contenido propio pueden ser escritos en cualquier momento (aunque la persona que lo escriba no sea el 
 responsable en ese momento) ya que pueden ser guardados como borradores. De esta manera, la persona responsable de esa semana 
 tendrá contenido al cual recurrir en todo momento.
+
+## ...

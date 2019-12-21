@@ -20,15 +20,16 @@ def draw_fractal_tree(x1, y1, angle, depth):
         draw_fractal_tree(x2, y2, angle+15, depth-1)
 
 def draw_star(x, y):
-    axes.plot( x, y, marker='*', color='gold', markersize=60 )
+    axes.plot( x, y, marker='*', color='gold', markersize=65 )
 
 
 draw_fractal_tree(x, y, angle=90, depth=max_depth)
 
-x_star, y_star = x+50, y+5650*max_depth
-
-text_box = axes.text(x_star-175, y_star-1850, 'SeMA', fontsize=48,
-                     style='italic', color='gold')
+x_star, y_star = x+45, y+5650*max_depth
+# text_string = r"S$\stackrel{\rightarrow}{e}$Ma"
+text_string = r"S$\vec{e}$MA"
+axes.text(x_star-165, y_star-2150, text_string, fontsize=48,
+          style='italic', color='gold')
 draw_star(x_star, y_star)
 
 show()

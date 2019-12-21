@@ -3,7 +3,7 @@ from matplotlib.pylab import subplots, show
 
 x, y = 300, 550
 max_depth = 9
-fig, axes = subplots(figsize=(12,12))
+fig, axes = subplots(figsize=(15,15))
 axes.margins(0.1)
 axes.set_axis_off()
 # axes.set_title("La SeMA les desea una ¡feliz Navidad fractal!", fontsize=23)
@@ -25,10 +25,10 @@ def draw_star(x, y):
 
 draw_fractal_tree(x, y, angle=90, depth=max_depth)
 
-x_star, y_star = x+45, y+5650*max_depth
+x_star, y_star = x, y+5650*max_depth
 # text_string = r"S$\stackrel{\rightarrow}{e}$Ma"
 text_string = r"S$\vec{e}$MA"
-axes.text(x_star-165, y_star-2150, text_string, fontsize=48,
+axes.text(x_star-135, y_star-2150, text_string, fontsize=48,
           style='italic', color='gold')
 draw_star(x_star, y_star)
 

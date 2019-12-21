@@ -6,7 +6,7 @@ max_depth = 9
 fig, axes = subplots(figsize=(12,12))
 axes.margins(0.1)
 axes.set_axis_off()
-axes.set_title("La SeMA les desea una ¡feliz Navidad fractal!", fontsize=23)
+# axes.set_title("La SeMA les desea una ¡feliz Navidad fractal!", fontsize=23)
 
 def draw_fractal_tree(x1, y1, angle, depth):
     if depth:
@@ -22,7 +22,13 @@ def draw_fractal_tree(x1, y1, angle, depth):
 def draw_star(x, y):
     axes.plot( x, y, marker='*', color='gold', markersize=60 )
 
+
 draw_fractal_tree(x, y, angle=90, depth=max_depth)
-draw_star(x, y + max_depth*5650)
+
+x_star, y_star = x+50, y+5650*max_depth
+
+text_box = axes.text(x_star-175, y_star-1850, 'SeMA', fontsize=48,
+                     style='italic', color='gold')
+draw_star(x_star, y_star)
 
 show()

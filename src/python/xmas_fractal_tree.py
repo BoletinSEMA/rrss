@@ -13,9 +13,8 @@ def draw_fractal_tree(x1, y1, angle, depth):
         x2 = x1 + int(cos(radians(angle)) * 12*depth)
         y2 = y1 + int(sin(radians(angle)) * 10*(y-1.7*abs(x2-x)) )
         color_depth = 1-depth/max_depth
-        axes.plot( (x1, x2), (y1, y2), lw=2*depth,
+        axes.plot( (x1, x2), (y1, y2), lw=3*depth,
                    color=(0.13*color_depth, 0.75*color_depth, 0.13*color_depth ))
-        y_factor = 1-abs(x2-x)
         draw_fractal_tree(x2, y2, angle-15, depth-1)
         draw_fractal_tree(x2, y2, angle+15, depth-1)
 
@@ -28,7 +27,7 @@ draw_fractal_tree(x, y, angle=90, depth=max_depth)
 x_star, y_star = x, y+5650*max_depth
 # text_string = r"S$\stackrel{\rightarrow}{e}$Ma"
 text_string = r"S$\vec{e}$MA"
-axes.text(x_star-135, y_star-2150, text_string, fontsize=48,
+axes.text(x_star-135, y_star-1850, text_string, fontsize=48,
           style='italic', color='gold')
 draw_star(x_star, y_star)
 
